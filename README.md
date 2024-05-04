@@ -1,1 +1,1 @@
-# cu-elastic-redis
+# cu-redis
